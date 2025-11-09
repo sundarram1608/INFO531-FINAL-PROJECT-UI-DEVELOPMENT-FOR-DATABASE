@@ -1,0 +1,4 @@
+CustomerID,CompanyName,ContactName,ContactTitle,Address,City,Region,PostalCode,Country,Phone,Fax
+SURAM,Sundar Fin,Sundar,Sales Representative,Obere Str. 57,Berlin,NULL,12209,Germany,030-0074321,030-0076545
+ANSII,Ankur Fin,Ankur,Owner,Avda. de la Constitución 2222,México D.F.,NULL,5021,Mexico,(5) 555-4729,(5) 555-3745
+PPDIS,PPD,PPD,Owner,Mataderos  2312,México D.F.,NULL,5023,Mexico,(5) 555-3932,
